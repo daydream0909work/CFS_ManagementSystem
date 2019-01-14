@@ -1,0 +1,4 @@
+C:\Users\いりのともこ\Documents\GitHub\CFS_ManagementSystem\obj\Debug\CFS_Application.vbprojAssemblyReference.cache
+C:\Users\いりのともこ\Documents\GitHub\CFS_ManagementSystem\obj\Debug\WindowsApp3.Main.resources
+C:\Users\いりのともこ\Documents\GitHub\CFS_ManagementSystem\obj\Debug\WindowsApp3.SyainM.resources
+C:\Users\いりのともこ\Documents\GitHub\CFS_ManagementSystem\obj\Debug\CFS_Application.vbproj.GenerateResource.cache
